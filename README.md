@@ -1,0 +1,1 @@
+This project is a Phonebook made with VS and C# programming language. The main functionalities of the applications are storing contacts using an list database, searching contacts by name or number. The main features learned are handling exceptions and user input, working with switches. 
